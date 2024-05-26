@@ -1,0 +1,35 @@
+.navbar-container{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-right: 8%;
+    margin-top: 1%;
+}
+#Link{
+    border-bottom: none;
+    text-decoration: none;
+    margin-right: 20px;
+}
+.nav-links{
+  color: black;
+  font-weight: bold;
+  font-size: 20px;
+}
+.navbar-mobile{
+  display: none;
+}
+@media screen and (max-width: 768px) {
+  .navbar-container{
+    display: none;
+  }
+  .navbar-mobile{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+    margin-right: 8%;
+    margin-top: 1%;
+}
+.nav-links{
+  font-size: 30px;
+}
+}
