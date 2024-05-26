@@ -18,7 +18,7 @@ text-align: left;
 color: #000000;
 width: 487px;
 height: 150px;
-opacity: 0px;
+   
 margin-top: 0%;
 margin-bottom: 30px;
 }
@@ -34,7 +34,7 @@ height: 50px;
 top: 462px;
 left: 115px;
 gap: 0px;
-opacity: 0px;
+   
 }
 
 .read-more-button{
@@ -44,7 +44,7 @@ top: 550px;
 left: 119px;
 gap: 0px;
 border-radius: 50px;
-opacity: 0px;
+   
 background: #000000;
 color: white;
 }
@@ -71,7 +71,7 @@ height: 60px;
 top: 791px;
 left: 602px;
 gap: 0px;
-opacity: 0px;
+   
 font-family: Inter;
 font-size: 25px;
 font-weight: 600;
@@ -86,7 +86,7 @@ height: 16px;
 top: 860px;
 left: 685px;
 gap: 0px;
-opacity: 0px;
+   
 
 }
 .paraa{
@@ -95,7 +95,7 @@ height: 88px;
 top: 898px;
 left: 427px;
 gap: 0px;
-opacity: 0px;
+   
 font-family: Poppins;
 font-size: 16px;
 font-weight: 400;
@@ -110,7 +110,7 @@ height: 206px;
 top: 736px;
 left: 1168px;
 gap: 0px;
-opacity: 0px;
+   
 
 }
 .cont-2-1{
@@ -137,14 +137,14 @@ height: 15px;
 top: 1593px;
 left: 195px;
 gap: 0px;
-opacity: 0px;
+   
 margin-left: 230px;
 margin-top: 70px;
 }
 .container-3{
     width: 1221px;
 height: 546px;
-opacity: 0px;
+   
 display: flex;
 align-items: center;
 justify-content: space-between   ;
@@ -156,7 +156,7 @@ top: 1707px;
 left: 100px;
 gap: 0px;
 padding-left: 80px;
-opacity: 0px;
+   
 padding-right: 180px;
 }
 .container-3-1{
@@ -170,7 +170,7 @@ height: 80px;
 top: 1707px;
 left: 705px;
 gap: 0px;
-opacity: 0px;
+   
 font-family: Poppins;
 font-size: 30px;
 font-weight: 600;
@@ -185,7 +185,7 @@ top: 2048px;
 left: 703px;
 gap: 0px;
 border-radius: 50px;
-opacity: 0px;
+   
 background-color: #000000;
 margin-top: 70px;
 }
@@ -201,7 +201,7 @@ top: 2508px;
 left: 137px;
 gap: 0px;
 border-radius: 25px;
-opacity: 0px;
+   
 background: #FFFFFF;
 box-shadow: 0px 0px 35px 0px #0000001C;
 display: flex;
@@ -215,7 +215,7 @@ height: 690px;
 top: 2438px;
 left: 729px;
 gap: 0px;
-opacity: 0px;
+   
 
 }
 .li img {
@@ -224,7 +224,7 @@ height: 82px;
 top: 2542px;
 left: 166px;
 gap: 0px;
-opacity: 0px;
+   
 padding-left: 10px;
 }
 .li div h1{
@@ -233,7 +233,7 @@ height: 25px;
 top: 2537px;
 left: 281px;
 gap: 0px;
-opacity: 0px;
+   
 font-family: Poppins;
 font-size: 25px;
 font-weight: bold;
@@ -247,7 +247,7 @@ height: 70px;
 top: 2574px;
 left: 282px;
 gap: 0px;
-opacity: 0px;
+   
 font-family: Poppins;
 font-size: 18px;
 font-weight: 400;
@@ -273,7 +273,7 @@ height: 90px;
 top: 3197px;
 left: 743px;
 gap: 0px;
-opacity: 0px;
+   
 font-family: Poppins;
 font-size: 30px;
 font-weight: 600;
@@ -289,7 +289,7 @@ top: 3303px;
 left: 743px;
 gap: 0px;
 border-radius: 6px;
-opacity: 0px;
+   
 background: #B2EDD1;
 box-shadow: 0px 4px 4px 0px #00000021;
 font-size: 20px;
@@ -302,7 +302,7 @@ height: 109px;
 top: 3370px;
 left: 760px;
 gap: 0px;
-opacity: 0px;
+   
 font-family: Poppins;
 font-size: 14px;
 font-weight: 400;
@@ -321,7 +321,7 @@ height: 850px;
 top: 3784px;
 left: -7px;
 gap: 0px;
-opacity: 0px;
+   
 background: #B2EDD1;
 display: flex;
 align-items: center;
@@ -334,7 +334,7 @@ height: 452px;
 top: 4093px;
 left: 26px;
 gap: 0px;
-opacity: 0px;
+   
 padding: 10px;
 }
 .dot{
@@ -379,7 +379,7 @@ padding: 10px;
     left: 186px;
     gap: 0px;
     border-radius: 20px ;
-    opacity: 0px;
+       
     background: #FFFFFF;
     box-shadow: 0px 0px 15px 0px #65B87D47;
     
@@ -390,7 +390,7 @@ padding: 10px;
     top: 5027px;
     left: 234px;
     gap: 0px;
-    opacity: 0px;
+       
     font-family: Poppins;
     font-size: 18px;
     font-weight: 400;
@@ -406,7 +406,7 @@ padding: 10px;
     top: 5153px;
     left: 222px;
     gap: 0px;
-    opacity: 0px;
+       
     
 }
 .girlp{
@@ -415,7 +415,7 @@ padding: 10px;
     top: 5155px;
     left: 544px;
     gap: 0px;
-    opacity: 0px;
+       
     
 }
 .arrow2{
@@ -427,7 +427,7 @@ max-height: 482.57px;
 top: 1013px;
 left: 161px;
 gap: 0px;
-opacity: 0px;
+   
 border: 2px solid #000000;
 padding-top: 10px;
 padding-left: 10px;
@@ -440,7 +440,7 @@ height: 502.57px;
 top: 1026px;
 left: 175px;
 gap: 0px;
-opacity: 0px;
+   
 background: #92E3A9;
 display: flex;
 align-items: center;
@@ -454,7 +454,7 @@ border-radius: 15%;
     top: 1284px;
     left: 232px;
     gap: 0px;
-    opacity: 0px;
+       
     font-family: Poppins;
     font-size: 25px;
     font-weight: 500;
@@ -469,7 +469,7 @@ height: 61px;
 top: 1347px;
 left: 199px;
 gap: 0px;
-opacity: 0px;
+   
 font-family: Poppins;
 font-size: 14px;
 font-weight: 400;
@@ -485,7 +485,7 @@ top: 1062px;
 left: 244px;
 gap: 0px;
 border: 4px 0px 0px 0px;
-opacity: 0px;
+   
 background: #FFFFFF;
 border: 4px solid #C0F5CF;
 border-radius: 50%;
@@ -499,7 +499,7 @@ height: 78px;
 top: 1110px;
 left: 292px;
 gap: 0px;
-opacity: 0px;
+   
 
 }
 .yellow-line{
@@ -508,7 +508,7 @@ height: 3px;
 top: 1326px;
 left: 283px;
 gap: 0px;
-opacity: 0px;
+   
 background: #DBFF00;
 
 }
@@ -518,7 +518,7 @@ height: 49px;
 top: 1434px;
 left: 304px;
 gap: 0px;
-opacity: 0px;
+   
 background: #000000;
 border-radius: 50%;
 display: flex;
@@ -533,7 +533,7 @@ top: 1454px;
 left: 318px;
 gap: 0px;
 border: 2px 0px 0px 0px;
-opacity: 0px;
+   
 border: 2px solid #FFFFFF;
 }
 .bg-green{
@@ -607,14 +607,14 @@ margin: 0;
     top: 1593px;
     left: 195px;
     gap: 0px;
-    opacity: 0px;
+       
     margin-left: 10%;
     margin-top: 10px;
     }
     .container-3{
         width: 1221px;
     height: 546px;
-    opacity: 0px;
+       
     display: flex;
     align-items: center;
     flex-direction: column;
@@ -632,7 +632,7 @@ margin-right: 600px;
     left: 0;
     gap: 0px;
     padding-left: 1px;
-    opacity: 0px;
+       
     padding-right: 700px;
     }
     .container-4{
@@ -652,7 +652,7 @@ margin-right: 600px;
     left: 137px;
     gap: 0px;
     border-radius: 25px;
-    opacity: 0px;
+       
     background: #FFFFFF;
     box-shadow: 0px 0px 35px 0px #0000001C;
     display: flex;
@@ -709,7 +709,7 @@ margin-right: 600px;
     top: 3784px;
     left: -7px;
     gap: 0px;
-    opacity: 0px;
+       
     background: #B2EDD1;
     display: flex;
     align-items: center;

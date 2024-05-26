@@ -2,7 +2,7 @@
     background: #C3EECA;
     height: 378px;
     gap: 0px;
-    opacity: 0px;
+       
     width: 100vw;
     }
 
@@ -19,7 +19,7 @@
     top: 112px;
     left: 115px;
     gap: 0px;
-    opacity: 0px;
+       
     background: #FFFFFF;
     box-shadow: 0px 0px 35px 0px #00000040;
     border-radius: 50%;
@@ -30,7 +30,7 @@
     top: 44px;
     left: 414px;
     gap: 0px;
-    opacity: 0px;
+       
     padding-left: 40px;
     }
     .sectioname{

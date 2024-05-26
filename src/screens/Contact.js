@@ -1,8 +1,8 @@
 import React from 'react'
-import './Contact.css'
-import Welcome from './Welcome'
-import Review from './Review';
-import Footer from './Footer';
+import '../css/Contact.css'
+import Welcome from '../components/Welcome'
+import Review from '../components/Review';
+import Footer from '../components/Footer';
 import location from '../img/location.png'
 import map from '../img/map.png'
 

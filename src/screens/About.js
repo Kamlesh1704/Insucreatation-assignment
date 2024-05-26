@@ -1,9 +1,9 @@
 import React from 'react'
-import Welcome from './Welcome'
-import './About.css'
+import Welcome from '../components/Welcome'
+import '../css/About.css'
 import bank from '../img/bank.png'
-import Review from './Review';
-import Footer from './Footer';
+import Review from '../components/Review';
+import Footer from '../components/Footer';
 
 export default function About() {
   return (

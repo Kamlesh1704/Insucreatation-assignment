@@ -1,4 +1,4 @@
-import './Footer.css'
+import '../css/Footer.css'
 import green from '../img/green.png'
 import yellow from '../img/yellow.png'
 import location from '../img/location.png'

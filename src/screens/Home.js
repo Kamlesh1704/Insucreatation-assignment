@@ -1,9 +1,9 @@
 import React from 'react'
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import "./Home.css"
-import Header from './Header'
-import Review from './Review';
+import "../css/Home.css"
+import Header from '../components/Header'
+import Review from '../components/Review';
 import faceb from '../img/faceb.svg'
 import follow from '../img/follow.svg'
 import insta from '../img/insta.svg'
@@ -27,7 +27,7 @@ import phone4 from '../img/phone4.png'
 import phone5 from '../img/phone5.png'
 import dot1 from '../img/dot1.png'
 import dot2 from '../img/dot2.png'
-import Footer from './Footer';
+import Footer from '../components/Footer';
 import laptop from '../img/laptop.png'
 import arr from '../img/arr.png'
 

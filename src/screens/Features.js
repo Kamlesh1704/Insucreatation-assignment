@@ -1,8 +1,8 @@
-import './Features.css'
-import Welcome from './Welcome'
+import '../css/Features.css'
+import Welcome from '../components/Welcome'
 import React from 'react'
-import Review from './Review';
-import Footer from './Footer';
+import Review from '../components/Review';
+import Footer from '../components/Footer';
 import copy from '../img/copy.png'
 
 export default function Features() {

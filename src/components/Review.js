@@ -1,5 +1,5 @@
 import React from 'react'
-import './Home.css'
+import '../css/Home.css'
 import comma from '../img/comma.png'
 import girlp from '../img/girlp.png'
 import arrow2 from '../img/arrow2.png'

@@ -1,5 +1,5 @@
 import React from 'react'
-import './Welcome.css'
+import '../css/Welcome.css'
 import aboutman from '../img/aboutman.png'
 import faceb from '../img/faceb.svg'
 import follow from '../img/follow.svg'
